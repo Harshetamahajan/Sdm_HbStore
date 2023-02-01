@@ -1,0 +1,8 @@
+D:\dotnet\solution\Emstore\obj\Debug\net7.0\REstore.csproj.AssemblyReference.cache
+D:\dotnet\solution\Emstore\obj\Debug\net7.0\REstore.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\solution\Emstore\obj\Debug\net7.0\REstore.AssemblyInfoInputs.cache
+D:\dotnet\solution\Emstore\obj\Debug\net7.0\REstore.AssemblyInfo.cs
+D:\dotnet\solution\Emstore\obj\Debug\net7.0\REstore.csproj.CoreCompileInputs.cache
+D:\dotnet\solution\Emstore\obj\Debug\net7.0\REstore.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\solution\Emstore\obj\Debug\net7.0\REstore.RazorAssemblyInfo.cache
+D:\dotnet\solution\Emstore\obj\Debug\net7.0\REstore.RazorAssemblyInfo.cs
